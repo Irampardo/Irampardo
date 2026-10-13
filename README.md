@@ -49,24 +49,11 @@ I'm an **Bioinformatics & Data Scientist** at **Pompeu Fabra University**, perfo
 
 ---
 
-## 📊 GitHub Stats
+## 🎤 Selected Papers
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matesanz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matesanz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matesanz&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🎤 Selected Talks
-
-| Talk | Event | Year |
+| Paper | Journal/Year | Link |
 |------|--------|------|
-| No-Code AI: Build an AI Product in 30 min | PyData Granada | 2024 |
+| Multimodal cell atlas of the ageing human skeletal muscle | Nature, 2024 | [2024](https://www.nature.com/articles/s41586-024-07348-6) |
 
 
 ---
