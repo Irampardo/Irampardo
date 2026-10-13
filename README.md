@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ignacio+Ramírez+%F0%9F%91%8B;Bioinformatics+%26+Data+Scientist;Science+and+Pragmatism." alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ignacio+Ramírez+%F0%9F%91%8B;Bioinformatics+%26+Data+Scientist;Science+and+Pragmatism.](https://media.licdn.com/dms/image/v2/C5603AQHtpYBcmFnbcA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517458361132?e=1793232000&v=beta&t=yLbvwDTgWYfZCMUFFDjzFXMbjZMIMFuKs4beq17JshY)" alt="Typing SVG" />
 
 <br/>
 
